@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-08-12T05:09:49.994360Z",
+      "format": null,
+      "last_modified": "2021-08-12T04:56:22.277976Z",
+      "mimetype": null,
+      "name": "hello.ipynb",
+      "path": "hello.ipynb",
+      "size": 600,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-08-12T05:09:49.994360Z",
+      "format": null,
+      "last_modified": "2021-08-12T04:53:05.835875Z",
+      "mimetype": null,
+      "name": "notebook_under_files.ipynb",
+      "path": "notebook_under_files.ipynb",
+      "size": 0,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2021-08-12T05:09:49.994360Z",
+  "format": "json",
+  "last_modified": "2021-08-12T05:09:49.994360Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
