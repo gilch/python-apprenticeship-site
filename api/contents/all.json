@@ -14,6 +14,18 @@
     },
     {
       "content": null,
+      "created": "2021-08-13T22:25:51.127533Z",
+      "format": null,
+      "last_modified": "2021-08-13T22:22:10.549070Z",
+      "mimetype": null,
+      "name": "2021-08-13-python-apprenticeship-part-3.ipynb",
+      "path": "2021-08-13-python-apprenticeship-part-3.ipynb",
+      "size": 62268,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
       "created": "2021-08-12T05:09:49.994360Z",
       "format": null,
       "last_modified": "2021-08-12T04:53:05.835875Z",
@@ -25,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2021-08-12T05:09:49.994360Z",
+  "created": "2021-08-13T22:25:51.127533Z",
   "format": "json",
-  "last_modified": "2021-08-12T05:09:49.994360Z",
+  "last_modified": "2021-08-13T22:25:51.127533Z",
   "mimetype": null,
   "name": "",
   "path": "",
